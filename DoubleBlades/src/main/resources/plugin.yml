@@ -1,0 +1,4 @@
+name: DoubleBlades
+version: '${project.version}'
+main: greefox.doubleblades.DoubleBlades
+api-version: 1.19

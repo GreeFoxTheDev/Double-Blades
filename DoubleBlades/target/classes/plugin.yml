@@ -1,0 +1,4 @@
+name: DoubleBlades
+version: '1.0-SNAPSHOT'
+main: greefox.doubleblades.DoubleBlades
+api-version: 1.19
